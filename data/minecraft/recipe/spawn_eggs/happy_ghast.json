@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "X": "minecraft:dried_ghast",
+      "#": "minecraft:water_bucket",
+      "$": "minecraft:ghast_tear"
+    },
+    "pattern": [
+      "$X$",
+      "X#X",
+      "$X$"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:happy_ghast_spawn_egg"
+    }
+  }

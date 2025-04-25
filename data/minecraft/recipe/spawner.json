@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": "minecraft:iron_ingot",
+      "X": "minecraft:iron_block",
+      "$": "minecraft:nether_star"
+    },
+    "pattern": [
+      "#X#",
+      "X$X",
+      "#X#"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:spawner"
+    }
+  }

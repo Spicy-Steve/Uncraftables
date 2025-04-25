@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": "minecraft:soul_sand",
+      "X": "minecraft:poppy"
+    },
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:wither_rose"
+    }
+  }

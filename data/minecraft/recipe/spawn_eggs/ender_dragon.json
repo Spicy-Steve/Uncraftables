@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "X": "minecraft:dragon_egg",
+      "#": "minecraft:dragon_head",
+      "$": "minecraft:dragon_breath"
+    },
+    "pattern": [
+      "$X$",
+      "X#X",
+      "$X$"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:ender_dragon_spawn_egg"
+    }
+  }

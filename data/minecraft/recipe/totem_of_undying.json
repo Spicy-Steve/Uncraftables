@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:gold_block",
+    "X": "minecraft:emerald_block",
+    "$": "minecraft:enchanted_golden_apple"
+  },
+  "pattern": [
+    "X$X",
+    "###",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:totem_of_undying"
+  }
+}

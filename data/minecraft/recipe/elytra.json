@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:phantom_membrane",
+    "X": "minecraft:end_rod",
+    "$": "minecraft:nether_star"
+  },
+  "pattern": [
+    "#X#",
+    "#$#",
+    "# #"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:elytra"
+  }
+}

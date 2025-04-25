@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "X": "minecraft:creeper_head",
+      "#": "minecraft:egg",
+      "$": "minecraft:tnt"
+    },
+    "pattern": [
+      "$X$",
+      "X#X",
+      "$X$"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:creeper_spawn_egg"
+    }
+  }

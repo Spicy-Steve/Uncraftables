@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "X": "minecraft:skeleton_skull",
+      "#": "minecraft:egg",
+      "$": "minecraft:bone_block"
+    },
+    "pattern": [
+      "$X$",
+      "X#X",
+      "$X$"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:skeleton_spawn_egg"
+    }
+  }
