@@ -2,8 +2,8 @@
     "type": "minecraft:crafting_shaped",
     "category": "misc",
     "key": {
-      "X": "minecraft:dragon_egg",
-      "#": "minecraft:dragon_head",
+      "X": "minecraft:dragon_head",
+      "#": "minecraft:totem_of_undying",
       "$": "minecraft:dragon_breath"
     },
     "pattern": [

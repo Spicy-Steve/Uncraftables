@@ -3,7 +3,7 @@
     "category": "misc",
     "key": {
       "X": "minecraft:wither_skeleton_skull",
-      "#": "minecraft:egg",
+      "#": "minecraft:totem_of_undying",
       "$": "minecraft:wither_rose"
     },
     "pattern": [

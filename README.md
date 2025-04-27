@@ -48,7 +48,7 @@
 ## Installation
 - Download the datapack `.zip` file found in the <a href="https://github.com/Spicy-Steve/Uncraftables/releases">_Releases_</a> page
 - Place it into the `datapacks` folder inside your Minecraft world save, or when creating a new world
-- Reload the world or run /reload in-game.
+- Reload the world or run `/reload` in-game.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FEATURES -->

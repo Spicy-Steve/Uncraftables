@@ -3,7 +3,7 @@
     "category": "misc",
     "key": {
       "X": "minecraft:piglin_head",
-      "#": "minecraft:egg",
+      "#": "minecraft:totem_of_undying",
       "$": "minecraft:gold_block"
     },
     "pattern": [

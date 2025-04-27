@@ -3,7 +3,7 @@
     "category": "misc",
     "key": {
       "X": "minecraft:skeleton_skull",
-      "#": "minecraft:egg",
+      "#": "minecraft:totem_of_undying",
       "$": "minecraft:bone_block"
     },
     "pattern": [

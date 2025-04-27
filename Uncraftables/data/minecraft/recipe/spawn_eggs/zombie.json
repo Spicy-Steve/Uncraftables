@@ -3,7 +3,7 @@
     "category": "misc",
     "key": {
       "X": "minecraft:zombie_head",
-      "#": "minecraft:egg",
+      "#": "minecraft:totem_of_undying",
       "$": "minecraft:diamond"
     },
     "pattern": [

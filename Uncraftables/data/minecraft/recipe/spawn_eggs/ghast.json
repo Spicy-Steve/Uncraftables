@@ -4,7 +4,7 @@
     "key": {
       "X": "minecraft:dried_ghast",
       "#": "minecraft:lava_bucket",
-      "$": "minecraft:ghast_tear"
+      "$": "minecraft:totem_of_undying"
     },
     "pattern": [
       "$X$",
