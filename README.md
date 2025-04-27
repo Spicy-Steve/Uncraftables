@@ -22,8 +22,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![project_license][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GNU GPL-3.0][license-shield]][license-url]
 
 
 
@@ -89,7 +88,7 @@ Don't forget to give the project a star! Thanks again!
 ### Top contributors:
 
 <a href="https://github.com/Spicy-Steve/Uncraftables/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
+  <img src="https://contrib.rocks/image?repo=Spicy-Steve/Uncraftables" alt="contrib.rocks image" />
 </a>
 
 
@@ -97,7 +96,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the project_license. See `LICENSE.txt` for more information.
+Distributed under GNU GPL-3.0. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,16 +126,16 @@ Project Link: [https://github.com/Spicy-Steve/Uncraftables](https://github.com/S
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Spicy-Steve/Uncraftables.svg?style=for-the-badge
 [contributors-url]: https://github.com/Spicy-Steve/Uncraftables/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Spicy-Steve/Uncraftables.svg?style=for-the-badge
 [forks-url]: https://github.com/Spicy-Steve/Uncraftables/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Spicy-Steve/Uncraftables.svg?style=for-the-badge
 [stars-url]: https://github.com/Spicy-Steve/Uncraftables/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Spicy-Steve/Uncraftables.svg?style=for-the-badge
 [issues-url]: https://github.com/Spicy-Steve/Uncraftables/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/Spicy-Steve/Uncraftables/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/Spicy-Steve/Uncraftables.svg?style=for-the-badge
+[license-url]: https://github.com/Spicy-Steve/Uncraftables/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
