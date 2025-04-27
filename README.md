@@ -44,12 +44,28 @@
   </p>
 </div>
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- INSTALLATION -->
+## Installation
+- Download the datapack `.zip` file found in the <a href="https://github.com/Spicy-Steve/Uncraftables/releases">_Releases_</a> page
+- Place it into the `datapacks` folder inside your Minecraft world save, or when creating a new world
+- Reload the world or run /reload in-game.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<!-- FEATURES -->
+## Recipes (A-Z)
+- Bell
+- Elytra
+- Experience Bottle
+- Gilded Blackstone
+- Horse Armours
+- Name Tag
+- Saddle
+- Spawn Eggs for the mobs that have mob heads
+- Spawner
+- Totem of Undying
+- Trident
+- Wither Rose
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,25 +102,10 @@ Distributed under GNU GPL-3.0. See `LICENSE` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/Spicy-Steve/Uncraftables](https://github.com/Spicy-Steve/Uncraftables)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
+<!-- CREDITS -->
+## Credits
+- `u/Advanced_Age_9198`'s post on <a href="https://www.reddit.com/r/PhoenixSC/comments/1k38xc0/made_some_crafting_recipes_for_uncraftable_items/">Reddit</a>
+- `u/CausalLoop25`'s post on <a href="https://www.reddit.com/r/PhoenixSC/comments/1k7j5qx/i_made_more_crafting_recipes_for_uncraftable">Reddit</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
