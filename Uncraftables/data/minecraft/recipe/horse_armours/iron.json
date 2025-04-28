@@ -3,12 +3,12 @@
     "category": "misc",
     "key": {
       "#": "minecraft:iron_ingot",
-      "X": "minecraft:leather_horse_armor"
+      "X": "minecraft:leather"
     },
     "pattern": [
-      " # ",
+      "  #",
       "#X#",
-      " # "
+      "#X#"
     ],
     "result": {
       "count": 1,

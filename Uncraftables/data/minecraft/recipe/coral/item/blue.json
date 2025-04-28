@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        "minecraft:water_bucket", "minecraft:dead_tube_coral", "minecraft:totem_of_undying"
+      ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:tube_coral"
+    }
+  }

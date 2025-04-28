@@ -1,0 +1,91 @@
+{
+  "criteria": {
+    "crafting_table": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:crafting_table"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:gui/advancements/backgrounds/stone",
+    "description": {
+      "translate": "advancements.story.root.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:grass_block"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.story.root.title"
+    }
+  },
+  "rewards": {
+      "recipes": [
+        "minecraft:bell",
+        "minecraft:bush",
+        "minecraft:elytra",
+        "minecraft:experience_bottle",
+        "minecraft:gilded_blackstone",
+        "minecraft:saddle",
+        "minecraft:spawner",
+        "minecraft:totem_of_undying",
+  
+        "minecraft:coral/block/blue",
+        "minecraft:coral/block/pink",
+        "minecraft:coral/block/purple",
+        "minecraft:coral/block/red",
+        "minecraft:coral/block/yellow",
+        "minecraft:coral/item/blue",
+        "minecraft:coral/item/pink",
+        "minecraft:coral/item/purple",
+        "minecraft:coral/item/red",
+        "minecraft:coral/item/yellow",
+  
+        "minecraft:fish/cod",
+        "minecraft:fish/salmon",
+        "minecraft:fish/tropical",
+  
+        "minecraft:horse_armours/diamond",
+        "minecraft:horse_armours/gold",
+        "minecraft:horse_armours/iron",
+  
+        "minecraft:name_tag/shape1",
+        "minecraft:name_tag/shape2",
+        "minecraft:name_tag/shape3",
+        "minecraft:name_tag/shape4",
+        "minecraft:name_tag/shape5",
+        "minecraft:name_tag/shape6",
+        "minecraft:name_tag/shape7",
+        "minecraft:name_tag/shape8",
+  
+        "minecraft:spawn_eggs/creeper",
+        "minecraft:spawn_eggs/ender_dragon",
+        "minecraft:spawn_eggs/ghast",
+        "minecraft:spawn_eggs/happy_ghast",
+        "minecraft:spawn_eggs/piglin",
+        "minecraft:spawn_eggs/skeleton",
+        "minecraft:spawn_eggs/wither_skeleton",
+        "minecraft:spawn_eggs/zombie",
+  
+        "minecraft:trident/shape1",
+        "minecraft:trident/shape2",
+        "minecraft:trident/shape3",
+  
+        "minecraft:wither_rose/shape1",
+        "minecraft:wither_rose/shape2"
+      ]
+    },
+  "requirements": [
+    [
+      "crafting_table"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

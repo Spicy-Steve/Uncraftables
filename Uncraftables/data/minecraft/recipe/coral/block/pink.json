@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        "minecraft:water_bucket", "minecraft:dead_brain_coral_block", "minecraft:totem_of_undying"
+      ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:brain_coral_block"
+    }
+  }
