@@ -54,13 +54,16 @@
 <!-- FEATURES -->
 ## Recipes (A-Z)
 - Bell
+- Coral Blocks
+- Coral Items
 - Elytra
 - Experience Bottle
+- Fish
 - Gilded Blackstone
-- Horse Armours
+- Horse Armors
 - Name Tag
 - Saddle
-- Spawn Eggs for the mobs that have mob heads
+- Spawn Eggs
 - Spawner
 - Totem of Undying
 - Trident
