@@ -40,6 +40,8 @@
     <br />
     <a href="https://modrinth.com/datapack/uncraftables-datapack">Modrinth</a>
     &middot;
+    <a href="https://github.com/Spicy-Steve/Uncraftables/blob/main/CHANGELOG.md">Changelog</a>
+    &middot;
     <a href="https://github.com/Spicy-Steve/Uncraftables/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
     <a href="https://github.com/Spicy-Steve/Uncraftables/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
