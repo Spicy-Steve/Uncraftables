@@ -1,14 +1,14 @@
 {
     "type": "minecraft:crafting_shaped",
-    "category": "misc",
+    "category": "equipment",
     "key": {
       "#": "minecraft:iron_ingot",
-      "X": "minecraft:leather"
+      "X": "#minecraft:wool"
     },
     "pattern": [
       "  #",
       "#X#",
-      "#X#"
+      "###"
     ],
     "result": {
       "count": 1,

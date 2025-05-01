@@ -79,7 +79,16 @@
         "minecraft:trident/shape3",
   
         "minecraft:wither_rose/shape1",
-        "minecraft:wither_rose/shape2"
+        "minecraft:wither_rose/shape2",
+        
+        "minecraft:chainmail/helmet",
+        "minecraft:chainmail/chesplate",
+        "minecraft:chainmail/leggings",
+        "minecraft:chainmail/boots",
+        
+        "minecraft:dirt",
+        "minecraft:reinforced_deepslate"
+
       ]
     },
   "requirements": [

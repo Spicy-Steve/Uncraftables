@@ -1,8 +1,13 @@
 # Changelog
 
 ## v1.2
-`PLANNED`
-- chainmail armour recipes
+### Additions & Changes
+- Chainmail armour recipes, like regular armour sets but using chains instead
+- Changed recipe categories, so not all of them are `misc`
+- Added dirt
+- Added reinforced deepslate
+##### Balance
+- Horse armour recipes changed again, 5 of the armour type 1 of any wool
 
 ## v1.1
 ### Additions & Changes

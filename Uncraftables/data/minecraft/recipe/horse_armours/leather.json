@@ -1,12 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
-    "category": "misc",
+    "category": "equipment",
     "key": {
-      "X": "minecraft:leather"
+      "#": "minecraft:leather",
+      "X": "#minecraft:wool"
     },
     "pattern": [
       "  #",
-      "###",
+      "#X#",
       "###"
     ],
     "result": {

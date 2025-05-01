@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
+  "category": "equipment",
   "key": {
     "#": "minecraft:phantom_membrane",
     "X": "minecraft:end_rod",

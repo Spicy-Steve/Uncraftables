@@ -2,16 +2,14 @@
     "type": "minecraft:crafting_shaped",
     "category": "equipment",
     "key": {
-      "#": "minecraft:diamond",
-      "X": "#minecraft:wool"
+      "#": "minecraft:chain"
     },
     "pattern": [
-      "  #",
-      "#X#",
-      "###"
+      "###",
+      "# #"
     ],
     "result": {
       "count": 1,
-      "id": "minecraft:diamond_horse_armor"
+      "id": "minecraft:chainmail_helmet"
     }
-  }
+}
