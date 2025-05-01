@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.2.1
+### Additions & Changes
+- New icon/logo
+- Thats all folks!
+
 ## v1.2
 ### Additions & Changes
 - Chainmail armour recipes, like regular armour sets but using chains instead
