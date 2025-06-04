@@ -2,14 +2,12 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "#": "minecraft:string",
-    "X": "minecraft:leather",
-    "$": "minecraft:iron_nugget"
+    "#": "minecraft:leather",
+    "X": "minecraft:iron_ingot"
   },
   "pattern": [
-    "XXX",
-    "# #",
-    "$ $"
+    " # ",
+    "#X#"
   ],
   "result": {
     "count": 1,
