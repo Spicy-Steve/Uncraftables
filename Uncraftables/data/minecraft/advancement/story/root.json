@@ -33,7 +33,6 @@
         "minecraft:elytra",
         "minecraft:experience_bottle",
         "minecraft:gilded_blackstone",
-        "minecraft:saddle",
         "minecraft:spawner",
         "minecraft:totem_of_undying",
   
@@ -55,6 +54,7 @@
         "minecraft:horse_armours/diamond",
         "minecraft:horse_armours/gold",
         "minecraft:horse_armours/iron",
+        "minecraft:horse_armours/leather",
   
         "minecraft:name_tag/shape1",
         "minecraft:name_tag/shape2",
