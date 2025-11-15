@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.2.2
+### Additions & Changes
+- Seperated minecraft namespace from uncraftables namespace for modularity
+- Updated to latest pack format
+
 ## v1.2.1
 ### Additions & Changes
 - New icon/logo
