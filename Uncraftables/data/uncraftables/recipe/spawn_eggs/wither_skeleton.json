@@ -1,18 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "key": {
-      "X": "minecraft:wither_skeleton_skull",
-      "#": "minecraft:totem_of_undying",
-      "$": "minecraft:wither_rose"
-    },
-    "pattern": [
-      "$X$",
-      "X#X",
-      "$X$"
-    ],
-    "result": {
-      "count": 1,
-      "id": "minecraft:wither_skeleton_spawn_egg"
-    }
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "spawn_eggs",
+  "key": {
+    "X": "minecraft:wither_skeleton_skull",
+    "#": "minecraft:totem_of_undying",
+    "$": "minecraft:wither_rose"
+  },
+  "pattern": [
+    "$X$",
+    "X#X",
+    "$X$"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:wither_skeleton_spawn_egg"
   }
+}

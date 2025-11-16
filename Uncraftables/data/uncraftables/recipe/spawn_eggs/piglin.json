@@ -1,18 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "key": {
-      "X": "minecraft:piglin_head",
-      "#": "minecraft:totem_of_undying",
-      "$": "minecraft:gold_block"
-    },
-    "pattern": [
-      "$X$",
-      "X#X",
-      "$X$"
-    ],
-    "result": {
-      "count": 1,
-      "id": "minecraft:piglin_spawn_egg"
-    }
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "spawn_eggs",
+  "key": {
+    "X": "minecraft:piglin_head",
+    "#": "minecraft:totem_of_undying",
+    "$": "minecraft:gold_block"
+  },
+  "pattern": [
+    "$X$",
+    "X#X",
+    "$X$"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:piglin_spawn_egg"
   }
+}

@@ -1,18 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "key": {
-      "X": "minecraft:dried_ghast",
-      "#": "minecraft:water_bucket",
-      "$": "minecraft:totem_of_undying"
-    },
-    "pattern": [
-      "$X$",
-      "X#X",
-      "$X$"
-    ],
-    "result": {
-      "count": 1,
-      "id": "minecraft:happy_ghast_spawn_egg"
-    }
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "spawn_eggs",
+  "key": {
+    "X": "minecraft:dried_ghast",
+    "#": "minecraft:water_bucket",
+    "$": "minecraft:totem_of_undying"
+  },
+  "pattern": [
+    "$X$",
+    "X#X",
+    "$X$"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:happy_ghast_spawn_egg"
   }
+}

@@ -1,18 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "key": {
-      "X": "minecraft:zombie_head",
-      "#": "minecraft:totem_of_undying",
-      "$": "minecraft:diamond"
-    },
-    "pattern": [
-      "$X$",
-      "X#X",
-      "$X$"
-    ],
-    "result": {
-      "count": 1,
-      "id": "minecraft:zombie_spawn_egg"
-    }
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "spawn_eggs",
+  "key": {
+    "X": "minecraft:zombie_head",
+    "#": "minecraft:totem_of_undying",
+    "$": "minecraft:diamond"
+  },
+  "pattern": [
+    "$X$",
+    "X#X",
+    "$X$"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:zombie_spawn_egg"
   }
+}

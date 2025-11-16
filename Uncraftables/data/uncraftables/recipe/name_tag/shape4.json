@@ -1,18 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "equipment",
-    "key": {
-      "#": "minecraft:string",
-      "X": "minecraft:iron_ingot",
-      "$": "minecraft:paper"
-    },
-    "pattern": [
-      "$",
-      "X",
-      "#"
-    ],
-    "result": {
-      "count": 1,
-      "id": "minecraft:name_tag"
-    }
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "nametag_shapes",
+  "key": {
+    "#": "minecraft:string",
+    "X": "minecraft:iron_ingot",
+    "$": "minecraft:paper"
+  },
+  "pattern": [
+    "$",
+    "X",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:name_tag"
   }
+}

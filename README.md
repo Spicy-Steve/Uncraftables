@@ -75,8 +75,17 @@
 - Totem of Undying
 - Trident
 - Wither Rose
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+## Groups (A-Z)
+**Technical Info**
+- `coral_blocks`
+- `coral_items`
+- `fish_buckets`
+- `nametag_shapes`
+- `spawn_eggs`
+- `trident_shapes`
+- `witherrose_shapes`
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 

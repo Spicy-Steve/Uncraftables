@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.3.0
+### Additions & Changes
+- Added copper horse armour
+- Grouped certain recipes (Shown in the README)
+
 ## v1.2.2
 ### Additions & Changes
 - Seperated minecraft namespace from uncraftables namespace for modularity

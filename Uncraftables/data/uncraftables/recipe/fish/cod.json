@@ -1,11 +1,12 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "category": "misc",
-    "ingredients": [
-        "minecraft:water_bucket", "minecraft:cod", "minecraft:totem_of_undying"
-      ],
-    "result": {
-      "count": 1,
-      "id": "minecraft:cod_bucket"
-    }
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "fish_buckets",
+  "ingredients": [
+      "minecraft:water_bucket", "minecraft:cod", "minecraft:totem_of_undying"
+    ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:cod_bucket"
   }
+}

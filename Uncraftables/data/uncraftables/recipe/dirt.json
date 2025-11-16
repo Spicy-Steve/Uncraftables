@@ -1,11 +1,11 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "category": "building",
-    "ingredients": [
-        "minecraft:sand", "minecraft:clay_ball", "#logs_that_burn", "minecraft:gravel"
-      ],
-    "result": {
-      "count": 12,
-      "id": "minecraft:dirt"
-    }
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+      "minecraft:sand", "minecraft:clay_ball", "#logs_that_burn", "minecraft:gravel"
+    ],
+  "result": {
+    "count": 12,
+    "id": "minecraft:dirt"
   }
+}

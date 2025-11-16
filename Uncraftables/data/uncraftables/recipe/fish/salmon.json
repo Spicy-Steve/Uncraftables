@@ -1,11 +1,12 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "category": "misc",
-    "ingredients": [
-        "minecraft:water_bucket", "minecraft:salmon", "minecraft:totem_of_undying"
-      ],
-    "result": {
-      "count": 1,
-      "id": "minecraft:salmon_bucket"
-    }
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "fish_buckets",
+  "ingredients": [
+      "minecraft:water_bucket", "minecraft:salmon", "minecraft:totem_of_undying"
+    ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:salmon_bucket"
   }
+}

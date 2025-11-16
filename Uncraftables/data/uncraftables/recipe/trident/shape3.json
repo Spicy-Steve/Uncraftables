@@ -1,19 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "equipment",
-    "key": {
-      "#": "minecraft:iron_ingot",
-      "X": "minecraft:heart_of_the_sea",
-      "$": "minecraft:prismarine_shard",
-      "%": "minecraft:iron_block"
-    },
-    "pattern": [
-      "#%#",
-      " X ",
-      " $ "
-    ],
-    "result": {
-      "count": 1,
-      "id": "minecraft:trident"
-    }
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "trident_shapes",
+  "key": {
+    "#": "minecraft:iron_ingot",
+    "X": "minecraft:heart_of_the_sea",
+    "$": "minecraft:prismarine_shard",
+    "%": "minecraft:iron_block"
+  },
+  "pattern": [
+    "#%#",
+    " X ",
+    " $ "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:trident"
   }
+}

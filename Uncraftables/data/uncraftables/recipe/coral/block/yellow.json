@@ -1,11 +1,12 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "category": "building",
-    "ingredients": [
-        "minecraft:water_bucket", "minecraft:dead_horn_coral_block", "minecraft:totem_of_undying"
-      ],
-    "result": {
-      "count": 1,
-      "id": "minecraft:horn_coral_block"
-    }
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "coral_blocks",
+  "ingredients": [
+      "minecraft:water_bucket", "minecraft:dead_horn_coral_block", "minecraft:totem_of_undying"
+    ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:horn_coral_block"
   }
+}

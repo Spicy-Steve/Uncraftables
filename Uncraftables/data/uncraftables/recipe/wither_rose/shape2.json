@@ -1,17 +1,18 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "misc",
-    "key": {
-      "#": "minecraft:soul_soil",
-      "X": "minecraft:poppy"
-    },
-    "pattern": [
-      "###",
-      "#X#",
-      "###"
-    ],
-    "result": {
-      "count": 1,
-      "id": "minecraft:wither_rose"
-    }
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "witherrose_shapes",
+  "key": {
+    "#": "minecraft:soul_soil",
+    "X": "minecraft:poppy"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:wither_rose"
   }
+}
