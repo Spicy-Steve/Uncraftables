@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "spawn_eggs",
+  "key": {
+    "X": { "item": "minecraft:dragon_head" },
+    "#": { "item": "minecraft:totem_of_undying" },
+    "$": { "item": "minecraft:dragon_breath" }
+  },
+  "pattern": [
+    "$X$",
+    "X#X",
+    "$X$"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:ender_dragon_spawn_egg"
+  }
+}

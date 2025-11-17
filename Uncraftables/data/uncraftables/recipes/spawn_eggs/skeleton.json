@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "spawn_eggs",
+  "key": {
+    "X": { "item": "minecraft:skeleton_skull" },
+    "#": { "item": "minecraft:totem_of_undying" },
+    "$": { "item": "minecraft:bone_block" }
+  },
+  "pattern": [
+    "$X$",
+    "X#X",
+    "$X$"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:skeleton_spawn_egg"
+  }
+}

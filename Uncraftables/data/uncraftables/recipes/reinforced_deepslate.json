@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": { "item": "minecraft:deepslate_bricks" },
+    "X": { "item": "minecraft:obsidian" },
+    "$": { "item": "minecraft:bone_block" }
+  },
+  "pattern": [
+    "$#$",
+    "#X#",
+    "$#$"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:reinforced_deepslate"
+  }
+}

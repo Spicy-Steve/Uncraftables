@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "spawn_eggs",
+  "key": {
+    "X": { "item": "minecraft:wither_skeleton_skull" },
+    "#": { "item": "minecraft:totem_of_undying" },
+    "$": { "item": "minecraft:wither_rose" }
+  },
+  "pattern": [
+    "$X$",
+    "X#X",
+    "$X$"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:wither_skeleton_spawn_egg"
+  }
+}

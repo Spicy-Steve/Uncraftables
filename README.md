@@ -48,11 +48,16 @@
   </p>
 </div>
 
+<!-- NOTICE -->
+# THIS BRANCH WILL NOT RECIEVE ANY FUTURE UPDATES
+
 <!-- INSTALLATION -->
 ## Installation
 - Download the datapack `.zip` file found in the <a href="https://github.com/Spicy-Steve/Uncraftables/releases">_Releases_</a> page
 - Place it into the `datapacks` folder inside your Minecraft world save, or when creating a new world
 - Reload the world or run `/reload` in-game.
+
+**Note:** Mod `.jar` file is available on the <a href="https://modrinth.com/datapack/uncraftables-datapack">Modrinth</a> page
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FEATURES -->

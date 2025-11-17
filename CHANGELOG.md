@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.3.1
+### Additions & Changes
+- Added a separate branch which supports the older datapack format
+- Versions `1.13` through `1.20.4` are supported
+- Updated `pack.mcmeta` this time
+
 ## v1.3.0
 ### Additions & Changes
 - Added copper horse armour

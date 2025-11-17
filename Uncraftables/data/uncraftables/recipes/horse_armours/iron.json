@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": { "item": "minecraft:iron_ingot" },
+    "X": { "tag": "minecraft:wool" }
+  },
+  "pattern": [
+    "  #",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:iron_horse_armor"
+  }
+}

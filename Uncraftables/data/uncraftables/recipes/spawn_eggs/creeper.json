@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "spawn_eggs",
+  "key": {
+    "X": { "item": "minecraft:creeper_head" },
+    "#": { "item": "minecraft:totem_of_undying" },
+    "$": { "item": "minecraft:tnt" }
+  },
+  "pattern": [
+    "$X$",
+    "X#X",
+    "$X$"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:creeper_spawn_egg"
+  }
+}

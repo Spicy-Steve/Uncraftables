@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "witherrose_shapes",
+  "key": {
+    "#": { "item": "minecraft:soul_soil" },
+    "X": { "item": "minecraft:poppy" }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:wither_rose"
+  }
+}

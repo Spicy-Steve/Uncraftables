@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "trident_shapes",
+  "key": {
+    "#": { "item": "minecraft:iron_ingot" },
+    "X": { "item": "minecraft:heart_of_the_sea" },
+    "$": { "item": "minecraft:prismarine_shard" },
+    "%": { "item": "minecraft:iron_block" }
+  },
+  "pattern": [
+    "%# ",
+    "#X ",
+    "  $"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:trident"
+  }
+}
