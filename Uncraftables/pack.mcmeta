@@ -4,6 +4,6 @@
     "min_format": 71,
     "max_format": 256,
     "supported_formats": {"min_inclusive": 71, "max_inclusive": 256},
-    "description": "§g Makes uncraftable items and blocks craftable §b[v1.2.2]"
+    "description": "§g Makes uncraftable items and blocks craftable §b[v1.3.1]"
   }
 }
